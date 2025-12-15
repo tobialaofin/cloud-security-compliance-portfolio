@@ -3,25 +3,27 @@
 This repository demonstrates hands-on experience implementing and validating
 cloud security controls aligned with NIST 800-171 and CMMC requirements.
 
-Due to NDA and private client environments, no proprietary code, tenant details,
-or production configurations are included. All materials are sanitized and focus
-on security methodology, risk mitigation, validation steps, and audit-ready
-evidence documentation.
+All work represented here was performed in private client environments under NDA.
+No proprietary configurations, tenant identifiers, screenshots, or internal links
+are included. Documentation focuses on implementation methodology, validation
+approach, and security outcomes.
 
-## What This Repository Demonstrates
-- Cloud security control implementation methodology
-- Validation and verification approaches
-- Evidence documentation for compliance and audits
-- Security reasoning and risk mitigation strategies
+## What This Repository Shows
+- Cloud security control implementation
+- Endpoint and identity protection using Microsoft Defender
+- Policy enforcement through Intune
+- Detection, monitoring, and response workflows
+- Audit-ready evidence documentation
 
 ## Technologies & Frameworks
 - Microsoft Defender for Endpoint
 - Microsoft Intune
-- Azure AD / Entra ID
-- Microsoft Sentinel
+- Microsoft Defender XDR
+- Azure security services
 - NIST 800-171
 - CMMC
 
-This portfolio is intended for recruiters and hiring managers to understand how
-I approach real-world cloud security and compliance work.
-
+## How to Read This Repository
+- Start with **Physical Protection** for endpoint data protection controls
+- Review **System and Information Integrity** for endpoint, detection, and response controls
+- See **Evidence Methodology** for NDA and sanitization approach
